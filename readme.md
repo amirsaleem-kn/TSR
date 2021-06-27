@@ -1,4 +1,4 @@
-# Typescript Fundamentals
+# <img width = "20" src = "https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/> Everything you need to know about Typescript
 
 ### A course on Typescript
 
