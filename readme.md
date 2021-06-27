@@ -2,8 +2,8 @@
 
 ### A course on Typescript
 
-Built-in Types
+Utility Types
 
- - [Partial](src/built-in-types/Partial.type.ts)
- - [Omit](src/built-in-types/Omit.type.ts)
- - [Required](src/built-in-types/Required.type.ts)
+ - [Partial](src/utility-types/Partial.type.ts)
+ - [Omit](src/utility-types/Omit.type.ts)
+ - [Required](src/utility-types/Required.type.ts)

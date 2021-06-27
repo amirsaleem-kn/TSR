@@ -3,6 +3,7 @@
  * Topic: Required type in Typescript
  * Syntax: Required<T>
  * Description: Make all properties in T required
+ * Reference: https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredtype
  */
 
 /**

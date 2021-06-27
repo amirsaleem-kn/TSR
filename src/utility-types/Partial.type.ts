@@ -3,6 +3,7 @@
  * Topic: Partial type in Typescript
  * Syntax: Partial<T>
  * Description: Makes all properties in T optional
+ * Reference: https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype
  */
 
 /** Person Interface */

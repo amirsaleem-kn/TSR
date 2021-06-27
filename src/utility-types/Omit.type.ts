@@ -3,6 +3,7 @@
  * Topic: Omit type in Typescript
  * Syntax: Omit<T, K extends string | number | symbol>
  * Description: Construct a type with the properties of T except for those in type K
+ * Reference: https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys
  */
 
 /** Car Interface */
