@@ -2,6 +2,10 @@
 
 ### A course on Typescript
 
+Built-in Types
+
+ - [never](src/built-in-types/never.type.ts)
+
 [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
  - [Partial](src/utility-types/Partial.type.ts)
